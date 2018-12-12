@@ -1,0 +1,15 @@
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 12B8-A55C
+
+ C:\Users\lld\Desktop\ffmpeg_V3\lib 的目录
+
+avcodec.lib
+avdevice.lib
+avfilter.lib
+avformat.lib
+avutil.lib
+postproc.lib
+swresample.lib
+swscale.lib
+               8 个文件        851,796 字节
+               0 个目录 75,331,342,336 可用字节

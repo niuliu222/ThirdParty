@@ -1,6 +1,6 @@
 Zeranoe FFmpeg Builds <http://ffmpeg.zeranoe.com/builds/>
 
-Build: ffmpeg-20181210-a271025-win64-shared
+Build: ffmpeg-4.1-win64-shared
 
 Configuration:
   --enable-gpl
@@ -48,7 +48,6 @@ Configuration:
   --enable-nvdec
   --enable-dxva2
   --enable-avisynth
-  --enable-libopenmpt
 
 Libraries:
   SDL               2.0.8             <https://libsdl.org>
@@ -61,7 +60,7 @@ Libraries:
   LAME              3.100             <http://lame.sourceforge.net>
   OpenCORE AMR      20170731-07a5be4  <https://sourceforge.net/projects/opencore-amr>
   OpenJPEG          2.3.0             <https://github.com/uclouvain/openjpeg>
-  Opus              20181122-9791b22  <https://opus-codec.org>
+  Opus              20181103-054acff  <https://opus-codec.org>
   shine             3.1.1             <https://github.com/savonet/shine>
   Snappy            1.1.7             <https://github.com/google/snappy>
   libsoxr           20180224-945b592  <http://sourceforge.net/projects/soxr>
@@ -71,7 +70,7 @@ Libraries:
   WavPack           5.1.0             <http://wavpack.com>
   WebP              1.0.0             <https://developers.google.com/speed/webp>
   x264              20180925-545de2f  <https://www.videolan.org/developers/x264.html>
-  x265              20181122-f74003e  <https://bitbucket.org/multicoreware/x265/wiki/Home>
+  x265              20180925-fd517ae  <https://bitbucket.org/multicoreware/x265/wiki/Home>
   libxml2           2.9.8             <http://xmlsoft.org>
   z.lib             20180927-d0f9cde  <https://github.com/sekrit-twc/zimg>
   XZ Utils          5.2.4             <http://tukaani.org/xz>
@@ -83,11 +82,10 @@ Libraries:
   libmysofa         20180818-5e1fc5b  <https://github.com/hoene/libmysofa>
   Speex             20180911-bdc3922  <http://speex.org>
   Xvid              1.3.5             <https://labs.xvid.com>
-  aom               20181204-f5c9213  <https://aomedia.googlesource.com/aom>
+  aom               20181109-7715ae1  <https://aomedia.googlesource.com/aom>
   libmfx            1.27              <https://software.intel.com/en-us/media-sdk>
   AMF               1.4.7             <https://gpuopen.com/gaming-product/advanced-media-framework>
   nv-codec-headers  20181017-5054a06  <https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git>
-  OpenMPT           20181130-ec964d0  <https://openmpt.org>
 
 Copyright (C) 2018 Kyle Schwarz
 
